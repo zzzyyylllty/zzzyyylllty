@@ -26,12 +26,6 @@
 - [Ame Chan](https://needystreameroverload.wiki.gg/wiki/Ame-chan)
 - Blue ICE
 
-> If you have a dream, please keep it in your heart.
-> >
->No matter how hard the rain blows, difficulties will still bloom!
-> >
-> -- [《Sailor》 Cantonese version](https://baike.baidu.com/item/%E6%B0%B4%E6%89%8B/3540718)
-
 ## My Projects
 
 ### Released
@@ -49,3 +43,18 @@
 ### Discounted & Unmaintenanced
 - [DylsemHokma](https://github.com/zzzyyylllty/DylsemHokma) - For kether Expansion.
 - [ChoTenChat](https://github.com/zzzyyylllty/ChoTenChat) - For Chat.
+
+## My Servers
+```
+  Just for fun and kidding=)
+  DIRECT RULE: [I] United Liminal Skyline
+        ADMIN: [I] BKRMC
+        ADMIN: [I+L] Einheitspakt
+        ADMIN: [L] FanXing Special Administrative Region
+        ADMIN: [L] OneFirst Autonomous Region
+        ADMIN: [N] Light of Down
+       FRIEND: [L] Reichskommissariat Reboot
+       FRIEND: [L] Reichskommissariat FrontRoad
+       FRIEND: [I] FLD LieJie Clique
+       FRIEND: [L] FLD Reborn Server
+```
