@@ -6,7 +6,7 @@
 * I’m from **People’s Republic of China**.
 * I’m 15 years old.
 * I’m current working on **ChoTenGroup**.
-* I'm current leading **The Orgianzation Of Free Servers** (OFS) and **Einheitspakt**
+* I'm current leading **The Orgianization Of Free Servers** (OFS) and **Einheitspakt**
 * I’m current working on **Liminal Skyline** server.
 
 ### Favorite Games
