@@ -1,16 +1,51 @@
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/41f01648-ea9b-4bc6-a76c-d2d271b516d9" />
+
 ## Hi there 👋
 
-<!--
-**zzzyyylllty/zzzyyylllty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My description
+* I’m from **People’s Republic of China**.
+* I’m 15 years old.
+* I’m current working on **ChoTenGroup**.
+* I’m current working on **Liminal Skyline** server.
 
-Here are some ideas to get you started:
+### Favorite Games
+* Needy Girl Overdose
+* Minecraft
+* Hearts of the Iron IV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+* QQ: 3631901756 (Most recommended for Chinese)
+* Discord: https://discordapp.com/users/zzzyyylll_ty
+
+### My favorite MC Projects:
+* [CraftEngine](https://github.com/Xiao-MoMi/craft-engine) by XiaoMoMi
+* [TabooLib](https://github.com/TabooLib/taboolib) by Bkm016
+* [TrMenu](https://github.com/CoderKuo/TrMenu), Current maintenance by Coderkuo
+
+### Two people I deeply love：
+- [Ame Chan](https://needystreameroverload.wiki.gg/wiki/Ame-chan)
+- Blue ICE
+
+> If you have a dream, please keep it in your heart.
+> >
+>No matter how hard the rain blows, difficulties will still bloom!
+> >
+> -- [《Sailor》 Cantonese version](https://baike.baidu.com/item/%E6%B0%B4%E6%89%8B/3540718)
+
+## My Projects
+
+### Released
+- [EmbianComponent](https://github.com/zzzyyylllty/EmbianComponent) - For data component lib
+- [GeyserHighResolItem](https://github.com/zzzyyylllty/GeyserHighResolItem) - For Bedrock High resolution items.
+- [Sertraline](https://github.com/zzzyyylllty/Sertraline-Hydrochloride) - For minecraft items.
+- [ChoTenChem](https://github.com/zzzyyylllty/ChoTenChem) - Chemdah Expansion
+- [LithiumCarbon](https://github.com/zzzyyylllty/Lithium-Carbonate) - Searchable loot Chests
+
+### Indev
+- [KAngelDP](https://github.com/zzzyyylllty/KAngelDP) - KAngel's Dungeon Plus
+- [Quetiapine](https://github.com/zzzyyylllty/Quetiapine) - Level, block regen and Classes
+- [Escitalopram](https://github.com/zzzyyylllty/Escitalopram) - For item shop.
+
+### Discounted & Unmaintenanced
+- [DylsemHokma](https://github.com/zzzyyylllty/DylsemHokma) - For kether Expansion.
+- [ChoTenChat](https://github.com/zzzyyylllty/ChoTenChat) - For Chat.
