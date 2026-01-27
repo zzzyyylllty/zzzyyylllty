@@ -6,6 +6,7 @@
 * I’m from **People’s Republic of China**.
 * I’m 15 years old.
 * I’m current working on **ChoTenGroup**.
+* I'm current leading **The Orgianzation Of Free Servers** (OFS) and **Einheitspakt**
 * I’m current working on **Liminal Skyline** server.
 
 ### Favorite Games
@@ -49,10 +50,10 @@
   Just for fun and kidding=)
   DIRECT RULE: [I] United Liminal Skyline
         ADMIN: [I] BKRMC
-        ADMIN: [I+L] Einheitspakt
         ADMIN: [L] FanXing Special Administrative Region
         ADMIN: [L] OneFirst Autonomous Region
         ADMIN: [N] Light of Down
+        ADMIN: [I+L] Einheitspakt / Revelation Reich
        FRIEND: [L] Reichskommissariat Reboot
        FRIEND: [L] Reichskommissariat FrontRoad
        FRIEND: [I] FLD LieJie Clique
