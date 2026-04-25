@@ -4,7 +4,7 @@
 
 ### My description
 * I’m from **People’s Republic of China**.
-* I’m 15 years old.
+* I’m ~15~ 16 years old.
 * I’m current working on **ChoTenGroup** and **The Organization Of Free Servers** (OFS) .Meanwhile, I am also serving as a manager at **Einheitspakt**, Oppose **Dai So Chin Kyōeiken** organization
 * I’m current working on **Liminal Skyline** server.
 
