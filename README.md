@@ -34,15 +34,15 @@
 - [Sertraline](https://github.com/zzzyyylllty/Sertraline-Hydrochloride) - For minecraft items.
 - [ChoTenChem](https://github.com/zzzyyylllty/ChoTenChem) - Chemdah Expansion
 - [LithiumCarbon](https://github.com/zzzyyylllty/Lithium-Carbonate) - Searchable loot Chests
-- [KAngelDP](https://github.com/zzzyyylllty/KAngelDP) - KAngel's Dungeon Plus
 
 ### Indev but Available
-- [Quetiapine](https://github.com/zzzyyylllty/Quetiapine) - Level, block regen and Classes
-- [Escitalopram](https://github.com/zzzyyylllty/Escitalopram) - For item shop.
+- [KAngelDP](https://github.com/zzzyyylllty/KAngelDP) - KAngel's Dungeon Plus
 
 ### Discounted & Unmaintenanced
 - [DylsemHokma](https://github.com/zzzyyylllty/DylsemHokma) - For kether Expansion.
 - [ChoTenChat](https://github.com/zzzyyylllty/ChoTenChat) - For Chat.
+- [Quetiapine](https://github.com/zzzyyylllty/Quetiapine) - Level, block regen and Classes
+- [Escitalopram](https://github.com/zzzyyylllty/Escitalopram) - For item shop.
 
 ## My Servers
 ```
