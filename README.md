@@ -45,15 +45,8 @@
 
 ## My Servers
 ```
-  Just for fun and kidding=)
-  DIRECT RULE: [I] United Liminal Skyline
+  DIRECT RULE: [I] Liminal Skyline
         ADMIN: [I] BKRMC
-        ADMIN: [L] FanXing Special Administrative Region
-        ADMIN: [L] OneFirst Autonomous Region
         ADMIN: [N] Light of Down
-        ADMIN: [I+L] Einheitspakt / Revelation Reich
-       FRIEND: [L] Reichskommissariat Reboot
-       FRIEND: [L] Reichskommissariat FrontRoad
-       FRIEND: [I] FLD LieJie Clique
-       FRIEND: [L] FLD Reborn Server
+        ADMIN: [I+L] Einheitspakt Revelation
 ```
