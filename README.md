@@ -45,6 +45,7 @@
 ```
   DIRECT RULE: [I] Liminal Skyline
         ADMIN: [I] BKRMC
-        ADMIN: [N] Light of Down
+        ADMIN: [I] TBNB Player Republic
+        ADMIN: [N] Escape From Minekov
         ADMIN: [I+L] Einheitspakt Revelation
 ```
